@@ -1,0 +1,5 @@
+{
+  "name": "ChessMaster 3D",
+  "description": "A 3D chess game that allows players to use custom 3D models for pieces, import/export game states, and play with realistic chess mechanics. The interface provides comprehensive controls for game management and camera manipulation.",
+  "requestFramePermissions": []
+}
